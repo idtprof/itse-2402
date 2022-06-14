@@ -1,1 +1,1 @@
-This repository is the website starter code for Assignment 1.1 - Zoo.
+This repository is the website starter code for Assignment 02.1 - Zoo.
